@@ -20,3 +20,4 @@ The project uses the CelebA dataset, which contains over 200,000 celebrity image
    ```bash
    git clone https://github.com/Deep-1997-08/Generative-Adversarial-Network-GAN-for-Image-Generation.git
    cd Generative-Adversarial-Network-GAN-for-Image-Generation
+Change for draft PR.
